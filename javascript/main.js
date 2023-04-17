@@ -43,13 +43,6 @@ GiphyAJAXCall.addEventListener('load', function(e){
 
 }
 
-
-
-
-
-
-
-
 // Show me the GIFs
 
 function pushToDOM(input) {
@@ -67,9 +60,6 @@ function pushToDOM(input) {
         
     });
     
-   
-
-
 
 }
 
